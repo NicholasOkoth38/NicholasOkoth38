@@ -34,13 +34,13 @@
 - 📫 How to reach me: [Twitter - @NiccurNick](https://twitter.com/NiccurNick) , [Youtube - @](https://youtube.com/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
-
+<!---
 [![Twitter: NiccurNick](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/NiccurNick)
 [![Linkedin: ](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/imthepk/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/NicholasOkoth38)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](/)
 
-
+--->
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
