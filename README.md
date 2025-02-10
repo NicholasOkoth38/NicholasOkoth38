@@ -26,7 +26,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Front-end].
+- 🔭 I’m currently working on [Front-end/Back-end].
 - 🌱 I’m currently learning  Fullstack Development.
 - 👯 I’m looking to collaborate on [Youtube]
 - 🤔 I’m looking for help with VelocityX documentation.
