@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on [Youtube]
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Graphic Design,Videography and Art or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @NiccurNick](https://twitter.com/NiccurNick) , [Youtube - @](https://youtube.com/)
+- 📫 How to reach me:  , [Youtube - @](https://youtube.com/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
 <!---
