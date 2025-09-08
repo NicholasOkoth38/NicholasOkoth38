@@ -28,14 +28,17 @@
 <!-- About Me Section -->
 ## 🌟 About Me
 
-- 🔭 I'm currently working on **Front-end/Back-end projects**
-- 🌱 I'm learning **Advanced Fullstack Development**
-- 👯 I'm looking to collaborate on **YouTube content creation**
-- 🤔 I'm looking for help with **VelocityX documentation**
-- 💬 Ask me about **Graphic Design, Videography, Art, or any tech-related stuff**
-- 📫 How to reach me: **[Email](mailto:nicholas@example.com)**, **[YouTube](https://youtube.com/)**
-- 😄 Pronouns: **He/His**
-- ⚡ Fun fact: **I spend almost 8 hours listening to songs every day**
+- 🌐 **5+ years of experience in Web Development** (**HTML, CSS, PHP, JavaScript, Python, Django, React, WordPress**)  
+- 🎨 **Skilled in UI/UX Design, Graphic Design, and Branding**  
+- 📈 **Experienced in SEO, Email Marketing** (**MailerLite, Make.com**) **and Funnel Building**  
+- 🛠️ **Hands-on with Social Media Management** (**Facebook, TikTok, Instagram, YouTube**) **and Content Automation**  
+- ✍️ **Passionate about Storytelling through Digital Platforms**  
+- 🚀 **Built and managed projects like** **Website Marketing, Zorivex IT, UpraiseCX**, **and Web Consulting**  
+- 🌱 I'm currently learning **Advanced Fullstack & Automation Tools**  
+- 👯 I'm looking to collaborate on **Creative Tech Projects & Digital Campaigns**  
+- 💬 Ask me about **Web Design, Branding, or Marketing Strategy**  
+- 📫 How to reach me: **[Your Email or Website]**  
+- ⚡ Fun fact: **I mix tech with storytelling to craft engaging online experiences**
 
 ---
 
